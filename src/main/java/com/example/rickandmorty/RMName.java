@@ -1,4 +1,4 @@
-package com.example.webclientsession;
+package com.example.rickandmorty;
 
 public record RMName(
         String first,

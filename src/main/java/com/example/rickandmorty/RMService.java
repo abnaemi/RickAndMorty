@@ -1,4 +1,4 @@
-package com.example.webclientsession;
+package com.example.rickandmorty;
 
 import lombok.AllArgsConstructor;
 import org.springframework.core.ParameterizedTypeReference;

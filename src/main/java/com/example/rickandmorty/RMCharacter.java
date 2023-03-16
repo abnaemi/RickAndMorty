@@ -1,4 +1,4 @@
-package com.example.webclientsession;
+package com.example.rickandmorty;
 
 import java.util.ArrayList;
 import java.util.List;
